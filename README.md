@@ -1,5 +1,5 @@
 # rabbitmq_with_spring
- Projeto de estudo do serviço de Mensageiria RabbitMQ, em qu foi desenvolvido um produtor em SpringBoot e dois consumidores, um com SpringBoot e ou tro com Node.js
+ Projeto de estudo do serviço de Mensageiria RabbitMQ, em qu foi desenvolvido um produtor em SpringBoot e dois consumidores, um com SpringBoot e outro com Node.js
 
 ## Projeto:
 * Este projeto tem como objetivo se tornar um template para uso de RabbitMQ com SpringBoot Framewrok e Node.js;
